@@ -1,0 +1,36 @@
+{
+  "clientes": [
+    {
+      "nombre": "Felix - ACTUALIZADO!",
+      "empresa": "Ferumeba",
+      "email": "ferumeba@hotmail.com",
+      "telefono": "88671024",
+      "notas": "Empresa desarrolladora de software",
+      "id": 1
+    },
+    {
+      "nombre": "Hulda ACTUALIZADA!",
+      "empresa": "Maria Creativa",
+      "email": "haguero02@hotmail.com",
+      "telefono": "88712004",
+      "notas": "Empresa creadora de muñecas",
+      "id": 2
+    },
+    {
+      "nombre": "Maria Fer Update!",
+      "empresa": "MaFer",
+      "email": "Mafer@hotmail.com",
+      "telefono": "78977754",
+      "notas": "",
+      "id": 3
+    },
+    {
+      "nombre": "FeJo",
+      "empresa": "FeJo AudioVisual",
+      "email": "fejo@hotmail.com",
+      "telefono": "",
+      "notas": "",
+      "id": 4
+    }
+  ]
+}
